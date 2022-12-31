@@ -8,3 +8,8 @@ Make sure playsound is version 1.2.2.
 You can do this with this line in the terminal: pip install playsound==1.2.2
 If you already have a newer version of playsound, run: pip uninstall playsound
 and follow the directions to properly uninstall it.
+
+Warning: When running the application for the first time, you may be forced to download the data that has been used to train the prebuilt training model that I use.
+It is from HuggingFace and its size approximately 1.4G.
+
+HuggingFace documentation link: https://huggingface.co/docs
